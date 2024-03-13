@@ -5,6 +5,11 @@ When journeying into the unknown, it is less important to be prepared for every 
 ![Image of Lightweaver Emblem](https://coppermind.net/w/images/Shash_glyph.svg)
 <h6>Journey before destination</h6>
 
+- [ ] Bond Spren
+- [ ] Say the words
+- [ ] ...
+- [ ] Knight Radiant things?
+
 ```
 $ man git
 ```
